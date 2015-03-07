@@ -1,3 +1,3 @@
 # klusjes-lijst
 
-Zie [[Issues]]
+Zie issues.
